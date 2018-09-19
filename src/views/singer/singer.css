@@ -1,0 +1,11 @@
+.my-list {
+	border-radius: .3rem;
+	overflow: hidden;
+	border: 1px solid #e4e4e4;
+}
+.am-wingblank .my-list .am-list-body:before {
+	background-color: transparent;
+}
+.my-list .am-list-item.am-list-item-middle {
+	background: #fbfbfb;
+}
